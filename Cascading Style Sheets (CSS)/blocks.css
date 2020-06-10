@@ -1,0 +1,57 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+a{
+    background: #3d59c6;
+    color: white;
+    text-decoration-line: none;
+}
+
+#link{
+    position: absolute;
+    margin-left: 42%;
+    top: -10px;
+}
+
+#three{
+    border-style: solid;
+    position: relative;
+    border-color: orange;
+    border-width: 4px;
+    width: 20%;
+    height: 6em;
+    top: 35px;
+    padding: 6px;
+    margin-left: 120px;
+}
+
+#two{
+    position: absolute;
+    width: 20%;
+    height: 4em;
+    top: 40px;
+    left: 60%;
+    border-style: solid;
+    border-color: green;
+    border-width: 4px;
+    padding: 6px;
+}
+
+#one{
+    position: absolute;
+    width: 20%;
+    border: 5px blue solid;
+    top: 190px;
+    left: 60%;
+    padding: 6px;
+}
+
+#four{
+    position: relative;
+    width: 20%;
+    border: 5px red solid;
+    top: 70px;
+    padding: 6px;
+    margin-left: 120px;
+}
